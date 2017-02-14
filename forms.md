@@ -2,5 +2,5 @@
 
 [如果forms.is\_valid\(\)校验成功，数据会以字典的形式被存储到`form.cleaned_data（）中，通过form.cleaned_data[key]的形式获取数据，如果key对应de是IntegerField，那么form.cleaned_data[key]返回整数类型`](https://docs.djangoproject.com/en/1.8/topics/forms/)
 
-如果form的fileds是`FileField或者是ImageField，那么需要添加`enctype=“multipart/form-data”
+[如果form的fileds是`FileField或者是ImageField，那么需要添加`enctype=“multipart/form-data”,并且，传递参数的时候，将request.POST和request.FILES同时传入](https://docs.djangoproject.com/en/1.8/ref/forms/api/#binding-uploaded-files)
 
