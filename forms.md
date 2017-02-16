@@ -6,5 +6,7 @@
 
 [使用forms.errors的时候，可以不用is\_valid\(\)方法，forms.errors会先自动调用is valid\(\)方法的](https://docs.djangoproject.com/en/1.8/ref/forms/api/#binding-uploaded-files)
 
-怎样自定义User mode\(https://docs.djangoproject.com/en/1.9/topics/auth/customizing/\#auth-custom-user and http://www.ziqiangxuetang.com/django/django-registration.html\)
+怎样自定义User mode\([https://docs.djangoproject.com/en/1.9/topics/auth/customizing/\\#auth-custom-user](https://docs.djangoproject.com/en/1.9/topics/auth/customizing/\#auth-custom-user) and [http://www.ziqiangxuetang.com/django/django-registration.html\](http://www.ziqiangxuetang.com/django/django-registration.html\)\)
+
+python 的发送邮件时，qq邮箱的口令是授权码
 
