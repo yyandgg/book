@@ -16,3 +16,5 @@ python 的发送邮件时，qq邮箱的口令是授权码
 
 可以指定视频的播放位置，定位到什么时候开始播放\([http://know.webhek.com/html5/html5-video-audio.html](http://know.webhek.com/html5/html5-video-audio.html)\)
 
+记录鼠标位置\([http://www.codebit.cn/javascript/mouse-position.html](http://www.codebit.cn/javascript/mouse-position.html)\)
+
