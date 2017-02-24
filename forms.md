@@ -12,5 +12,7 @@ python 的发送邮件时，qq邮箱的口令是授权码
 
 了解什么时候使用reverse-lazy\([http://cheng.logdown.com/posts/2015/05/25/django-reverse-vs-reverse-lazy](https://www.gitbook.com/book/yyandgg1/confused/edit#)\)
 
-了解了如何更换url\([https://msdn.microsoft.com/zh-cn/library/hh924823\(v=vs.85\).aspx](https://msdn.microsoft.com/zh-cn/library/hh924823(v=vs.85).aspx)\)
+了解了如何更换url\([https://msdn.microsoft.com/zh-cn/library/hh924823\(v=vs.85\).aspx](https://msdn.microsoft.com/zh-cn/library/hh924823(v=vs.85).aspx\)\)
+
+可以指定视频的播放位置，定位到什么时候开始播放\([http://know.webhek.com/html5/html5-video-audio.html](http://know.webhek.com/html5/html5-video-audio.html)\)
 
