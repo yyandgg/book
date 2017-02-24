@@ -10,3 +10,5 @@
 
 python 的发送邮件时，qq邮箱的口令是授权码
 
+了解什么时候使用reverse-lazy\([http://cheng.logdown.com/posts/2015/05/25/django-reverse-vs-reverse-lazy](https://www.gitbook.com/book/yyandgg1/confused/edit#)\)
+
