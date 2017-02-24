@@ -18,3 +18,5 @@ python 的发送邮件时，qq邮箱的口令是授权码
 
 记录鼠标位置\([http://www.codebit.cn/javascript/mouse-position.html](http://www.codebit.cn/javascript/mouse-position.html)\)
 
+画布同步\([http://www.thinksaas.cn/topics/0/501/501780.html](http://www.thinksaas.cn/topics/0/501/501780.html)\)
+
