@@ -6,17 +6,19 @@
 
 [使用forms.errors的时候，可以不用is\_valid\(\)方法，forms.errors会先自动调用is valid\(\)方法的](https://docs.djangoproject.com/en/1.8/ref/forms/api/#binding-uploaded-files)
 
-怎样自定义User mode\([https://docs.djangoproject.com/en/1.9/topics/auth/customizing/\\#auth-custom-user](https://docs.djangoproject.com/en/1.9/topics/auth/customizing/\#auth-custom-user) and [http://www.ziqiangxuetang.com/django/django-registration.html\](http://www.ziqiangxuetang.com/django/django-registration.html\)\)
+怎样自定义User mode\([https://docs.djangoproject.com/en/1.9/topics/auth/customizing/\\#auth-custom-user](https://docs.djangoproject.com/en/1.9/topics/auth/customizing/#auth-custom-user) and [http://www.ziqiangxuetang.com/django/django-registration.html\](http://www.ziqiangxuetang.com/django/django-registration.html\)\)
 
 python 的发送邮件时，qq邮箱的口令是授权码
 
-了解什么时候使用reverse-lazy\([http://cheng.logdown.com/posts/2015/05/25/django-reverse-vs-reverse-lazy](https://www.gitbook.com/book/yyandgg1/confused/edit#)\)
+了解什么时候使用reverse-lazy\([http://cheng.logdown.com/posts/2015/05/25/django-reverse-vs-reverse-lazy](https://www.gitbook.com/book/yyandgg1/confused/edit#\)\)
 
-了解了如何更换url\([https://msdn.microsoft.com/zh-cn/library/hh924823\(v=vs.85\).aspx](https://msdn.microsoft.com/zh-cn/library/hh924823(v=vs.85).aspx\)\)
+了解了如何更换url\([https://msdn.microsoft.com/zh-cn/library/hh924823\(v=vs.85\).aspx](https://msdn.microsoft.com/zh-cn/library/hh924823\(v=vs.85\).aspx\)\)
 
-可以指定视频的播放位置，定位到什么时候开始播放\([http://know.webhek.com/html5/html5-video-audio.html](http://know.webhek.com/html5/html5-video-audio.html)\)
+可以指定视频的播放位置，定位到什么时候开始播放\([http://know.webhek.com/html5/html5-video-audio.html](http://know.webhek.com/html5/html5-video-audio.html\)\)
 
-记录鼠标位置\([http://www.codebit.cn/javascript/mouse-position.html](http://www.codebit.cn/javascript/mouse-position.html)\)
+记录鼠标位置\([http://www.codebit.cn/javascript/mouse-position.html](http://www.codebit.cn/javascript/mouse-position.html\)\)
 
-画布同步\([http://www.thinksaas.cn/topics/0/501/501780.html](http://www.thinksaas.cn/topics/0/501/501780.html)\)
+画布同步\([http://www.thinksaas.cn/topics/0/501/501780.html](http://www.thinksaas.cn/topics/0/501/501780.html\)\)
+
+django官网中文版：http://usyiyi.cn/translate/django\_182/ref/forms/api.html
 
