@@ -1,1 +1,10 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+### **  Pontus多媒体云平台提供一站式视频直播、点播、转码、存储服务，打造您的私有云平台：**
+
+* **灵活可选的定制化模块，更好的贴合您的业务需求；**
+
+
+* **超高的性价比，实实在在的支撑您的业务运营；**
+
+* **适用于泛娱乐直播、远程医疗、在线教育、企业会议直播、云监控、广电行业电视直播、海量媒体文件转码及存储;**
+
+
